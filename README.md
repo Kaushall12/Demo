@@ -1,4 +1,4 @@
 # Demo
-This is my first git repository. \n
-Hello I am Kaushal \n
+This is my first git repository. 
+Hello I am Kaushal 
 Hello I am Meet
